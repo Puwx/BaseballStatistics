@@ -6,6 +6,8 @@
 
 #### This script will also created a new statistics which is based on all of the other statistics that it captures. The statistic measures how many times each of the players has appeared on a top 10 leaderboard on the Baseball Reference Batting Leaders page. Once the values have been found the following weights are applied to each of the positions:
 
+|Position|Points Given|
+|--------|------------|
 |1st Place| 100 points|
 |2nd Place| 90 points|
 |3rd Place| 80 points|
