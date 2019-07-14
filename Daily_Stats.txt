@@ -1,0 +1,621 @@
+Wins Above Replacement--all
+1 | Bellinger | LAD | 6.7
+2 | Trout | LAA | 6.2
+3 | Minor | TEX | 5.7
+4 | Scherzer | WSN | 5.5
+5 | Yelich | MIL | 5.0
+6 | Lynn | TEX | 4.6
+7 | Chapman | OAK | 4.5
+8 | Bregman | HOU | 4.5
+9 | Greinke | ARI | 4.4
+9 | Polanco | MIN | 4.4
+
+
+WAR Position Players
+1 | Bellinger | LAD | 6.7
+2 | Trout | LAA | 6.2
+3 | Yelich | MIL | 5.0
+4 | Chapman | OAK | 4.5
+5 | Bregman | HOU | 4.5
+6 | Polanco | MIN | 4.4
+7 | Alonso | NYM | 4.0
+8 | Marte | ARI | 3.8
+9 | Devers | BOS | 3.8
+10 | Semien | OAK | 3.7
+
+
+Offensive WAR
+1 | Trout | LAA | 5.9
+2 | Bellinger | LAD | 4.9
+3 | Yelich | MIL | 4.8
+4 | Bogaerts | BOS | 4.2
+5 | Alonso | NYM | 4.0
+6 | Bregman | HOU | 3.9
+7 | Polanco | MIN | 3.6
+8 | Devers | BOS | 3.6
+9 | Bryant | CHC | 3.6
+10 | Chapman | OAK | 3.6
+
+
+Defensive WAR
+1 | Ahmed | ARI | 2.0
+2 | Rojas | MIA | 1.8
+3 | Story | COL | 1.6
+4 | Bellinger | LAD | 1.5
+5 | Kiermaier | TBR | 1.4
+6 | Realmuto | PHI | 1.3
+7 | Buxton | MIN | 1.3
+8 | Maldonado | KCR | 1.3
+9 | Chirinos | HOU | 1.2
+10 | Chapman | OAK | 1.2
+
+
+Batting Average
+1 | McNeil | NYM | .350
+2 | Bellinger | LAD | .338
+3 | LeMahieu | NYY | .330
+4 | Yelich | MIL | .328
+5 | Blackmon | COL | .327
+6 | Devers | BOS | .327
+7 | Brantley | HOU | .323
+8 | Polanco | MIN | .315
+9 | Anderson | CHW | .317 **
+10 | Arenado | COL | .312
+
+
+On-Base%
+1 | Trout | LAA | .456
+2 | Bellinger | LAD | .433
+3 | Yelich | MIL | .429
+4 | Santana | CLE | .412
+5 | McNeil | NYM | .410
+6 | Soto | WSN | .406
+7 | Hoskins | PHI | .405
+8 | Bryant | CHC | .401
+9 | Bregman | HOU | .398
+10 | Voit | NYY | .393
+
+
+Slugging %
+1 | Yelich | MIL | .701
+2 | Bellinger | LAD | .695
+3 | Trout | LAA | .668
+4 | Bell | PIT | .642
+5 | Alonso | NYM | .623
+6 | Blackmon | COL | .620
+7 | Rendon | WSN | .606
+8 | Gallo | TEX | .632 **
+9 | Renfroe | SDP | .599
+10 | Freeman | ATL | .571
+10 | Springer | HOU | .576 **
+
+
+On-Base Plus Slugging
+1 | Yelich | MIL | 1.130
+2 | Bellinger | LAD | 1.128
+3 | Trout | LAA | 1.124
+4 | Bell | PIT | 1.015
+5 | Rendon | WSN | .998
+6 | Alonso | NYM | .995
+7 | Blackmon | COL | .995
+8 | Gallo | TEX | 1.038 **
+9 | Freeman | ATL | .959
+10 | Springer | HOU | .961 **
+
+
+Games Played
+1 | Semien | OAK | 94
+2 | Merrifield | KCR | 93
+2 | Markakis | ATL | 93
+2 | Laureano | OAK | 93
+2 | Soler | KCR | 93
+6 | Acuna | ATL | 92
+6 | Harper | PHI | 92
+6 | Freeman | ATL | 92
+6 | Albies | ATL | 92
+6 | Villar | BAL | 92
+6 | Santana | SEA | 92
+
+
+At Bats
+1 | Merrifield | KCR | 388
+2 | Semien | OAK | 386
+3 | Acuna | ATL | 370
+4 | Polanco | MIN | 365
+4 | Baez | CHC | 365
+6 | Freeman | ATL | 364
+6 | Santana | SEA | 364
+8 | Marte | ARI | 362
+9 | Albies | ATL | 361
+10 | Castro | MIA | 359
+10 | Hosmer | SDP | 359
+
+
+Plate Appearances
+1 | Semien | OAK | 433
+2 | Betts | BOS | 426
+3 | Merrifield | KCR | 422
+3 | Acuna | ATL | 422
+5 | Freeman | ATL | 415
+6 | Santana | SEA | 406
+7 | Polanco | MIN | 405
+8 | Harper | PHI | 403
+9 | Bregman | HOU | 402
+10 | Trout | LAA | 401
+
+
+Runs Scored
+1 | Betts | BOS | 79
+2 | Trout | LAA | 74
+3 | Devers | BOS | 71
+3 | Bellinger | LAD | 71
+5 | Acuna | ATL | 70
+5 | Freeman | ATL | 70
+7 | Bogaerts | BOS | 69
+7 | Blackmon | COL | 69
+7 | Story | COL | 69
+7 | Bell | PIT | 69
+7 | Bryant | CHC | 69
+
+
+Hits
+1 | Merrifield | KCR | 120
+2 | Polanco | MIN | 115
+2 | Devers | BOS | 115
+4 | LeMahieu | NYY | 114
+5 | Marte | ARI | 113
+6 | Brantley | HOU | 111
+7 | Bellinger | LAD | 110
+7 | Freeman | ATL | 110
+9 | Arenado | COL | 109
+10 | Acuna | ATL | 107
+
+
+Total Bases
+1 | Bellinger | LAD | 226
+2 | Bell | PIT | 222
+3 | Yelich | MIL | 220
+4 | Freeman | ATL | 208
+5 | Alonso | NYM | 207
+5 | Trout | LAA | 207
+7 | Marte | ARI | 205
+8 | Baez | CHC | 202
+9 | Blackmon | COL | 201
+10 | Arenado | COL | 197
+
+
+Doubles
+1 | Bell | PIT | 31
+2 | Castellanos | DET | 30
+3 | Bogaerts | BOS | 29
+4 | Bryant | CHC | 28
+5 | Merrifield | KCR | 26
+5 | Devers | BOS | 26
+7 | Freeman | ATL | 25
+8 | McNeil | NYM | 24
+8 | Peralta | ARI | 24
+8 | Dahl | COL | 24
+8 | Polanco | MIN | 24
+8 | Buxton | MIN | 24
+8 | Baez | CHC | 24
+8 | Chapman | OAK | 24
+8 | Brantley | HOU | 24
+8 | Harper | PHI | 24
+
+
+Triples
+1 | Mondesi | KCR | 9
+2 | Merrifield | KCR | 7
+2 | Blackmon | COL | 7
+4 | Kiermaier | TBR | 6
+4 | Escobar | ARI | 6
+6 | Polanco | MIN | 5
+6 | Tatis | SDP | 5
+6 | Smith | SEA | 5
+6 | Tapia | COL | 5
+6 | Gardner | NYY | 5
+
+
+Home Runs
+1 | Bellinger | LAD | 31
+1 | Yelich | MIL | 31
+3 | Alonso | NYM | 30
+3 | Trout | LAA | 30
+5 | Bell | PIT | 27
+5 | Renfroe | SDP | 27
+7 | Moustakas | MIL | 25
+7 | Encarnacion | 2TM | 25
+7 | Reyes | SDP | 25
+10 | Soler | KCR | 24
+10 | Bruce | 2TM | 24
+10 | Sanchez | NYY | 24
+10 | Bregman | HOU | 24
+
+
+Runs Batted In
+1 | Bell | PIT | 84
+2 | Trout | LAA | 75
+3 | Bellinger | LAD | 73
+4 | Arenado | COL | 70
+4 | Bogaerts | BOS | 70
+6 | Alonso | NYM | 68
+6 | Escobar | ARI | 68
+6 | Freeman | ATL | 68
+9 | Yelich | MIL | 67
+10 | Abreu | CHW | 66
+
+
+Bases on Balls
+1 | Trout | LAA | 77
+2 | Hoskins | PHI | 71
+3 | Bregman | HOU | 69
+4 | Betts | BOS | 68
+5 | Santana | CLE | 64
+6 | Vogelbach | SEA | 62
+7 | Harper | PHI | 59
+8 | Bellinger | LAD | 55
+9 | Belt | SFG | 54
+10 | Soto | WSN | 52
+10 | Grandal | MIL | 52
+10 | Yelich | MIL | 52
+
+
+Strikeouts
+1 | Santana | SEA | 119
+2 | Baez | CHC | 111
+3 | Soler | KCR | 109
+4 | Harper | PHI | 107
+5 | Myers | SDP | 106
+6 | Lowe | TBR | 104
+7 | Grichuk | TOR | 103
+8 | Gallo | TEX | 102
+8 | Acuna | ATL | 102
+10 | Suarez | CIN | 101
+10 | Schwarber | CHC | 101
+10 | Odor | TEX | 101
+
+
+Stolen Bases
+1 | Mondesi | KCR | 29
+2 | Smith | SEA | 25
+3 | Andrus | TEX | 21
+3 | Yelich | MIL | 21
+5 | Dyson | ARI | 20
+6 | Ramirez | CLE | 19
+7 | Turner | WSN | 17
+7 | Villar | BAL | 17
+7 | Kiermaier | TBR | 17
+10 | Hamilton | KCR | 16
+10 | Gordon | SEA | 16
+
+
+Singles
+1 | LeMahieu | NYY | 79
+2 | Merrifield | KCR | 76
+3 | Eaton | WSN | 74
+3 | Brantley | HOU | 74
+5 | Polanco | MIN | 73
+6 | McNeil | NYM | 72
+6 | Andrus | TEX | 72
+6 | Garcia | CHW | 72
+6 | Hosmer | SDP | 72
+10 | Acuna | ATL | 71
+
+
+Adjusted OPS+
+1 | Trout | LAA | 196
+2 | Bellinger | LAD | 191
+3 | Yelich | MIL | 185
+4 | Alonso | NYM | 162
+5 | Bell | PIT | 160
+6 | Rendon | WSN | 150
+7 | Bregman | HOU | 148
+8 | McNeil | NYM | 147
+9 | Santana | CLE | 147
+10 | Bryant | CHC | 144
+
+
+Runs Created
+1 | Trout | LAA | 102
+2 | Bellinger | LAD | 100
+3 | Yelich | MIL | 99
+4 | Bell | PIT | 83
+5 | Freeman | ATL | 81
+6 | Alonso | NYM | 78
+7 | Arenado | COL | 76
+7 | Bregman | HOU | 76
+9 | Bryant | CHC | 75
+9 | Bogaerts | BOS | 75
+9 | Hoskins | PHI | 75
+9 | Blackmon | COL | 75
+
+
+Adj. Batting Runs
+1 | Trout | LAA | 49
+2 | Bellinger | LAD | 46
+3 | Yelich | MIL | 42
+4 | Bell | PIT | 32
+5 | Alonso | NYM | 31
+6 | Bregman | HOU | 26
+7 | Santana | CLE | 24
+8 | Hoskins | PHI | 24
+9 | Bryant | CHC | 23
+10 | Freeman | ATL | 23
+
+
+Adj. Batting Wins
+1 | Trout | LAA | 4.5
+2 | Bellinger | LAD | 4.2
+3 | Yelich | MIL | 3.9
+4 | Bell | PIT | 2.9
+5 | Alonso | NYM | 2.9
+6 | Bregman | HOU | 2.4
+7 | Santana | CLE | 2.3
+8 | Hoskins | PHI | 2.2
+8 | Freeman | ATL | 2.2
+8 | Bryant | CHC | 2.2
+
+
+Extra Base Hits
+1 | Bell | PIT | 61
+2 | Alonso | NYM | 53
+3 | Bellinger | LAD | 52
+3 | Yelich | MIL | 52
+5 | Trout | LAA | 51
+6 | Freeman | ATL | 50
+7 | Baez | CHC | 49
+8 | Chapman | OAK | 48
+8 | Bogaerts | BOS | 48
+8 | Blackmon | COL | 48
+
+
+Times On Base
+1 | Trout | LAA | 183
+2 | Bellinger | LAD | 167
+3 | Betts | BOS | 166
+4 | Hoskins | PHI | 162
+5 | Freeman | ATL | 161
+5 | Yelich | MIL | 161
+7 | Bregman | HOU | 160
+8 | Santana | CLE | 159
+9 | Acuna | ATL | 156
+10 | Bryant | CHC | 154
+
+
+Offensive Win %
+1 | Trout | LAA | .835
+2 | Yelich | MIL | .833
+3 | Bellinger | LAD | .829
+4 | Blackmon | COL | .747
+5 | Soto | WSN | .739
+6 | Bell | PIT | .736
+7 | Bryant | CHC | .728
+8 | Alonso | NYM | .723
+9 | Rendon | WSN | .723
+10 | McNeil | NYM | .718
+
+
+Hit By Pitch
+1 | Dietrich | CIN | 17
+2 | Robles | WSN | 16
+3 | Rizzo | CHC | 14
+4 | Locastro | ARI | 13
+5 | Alonso | NYM | 12
+5 | Gordon | KCR | 12
+7 | Turner | LAD | 11
+7 | McNeil | NYM | 11
+7 | Choo | TEX | 11
+7 | Trout | LAA | 11
+7 | Bryant | CHC | 11
+
+
+Sacrifice Hits
+1 | Ryu | LAD | 9
+1 | Gray | COL | 9
+3 | Maeda | LAD | 8
+4 | Marquez | COL | 7
+4 | Kershaw | LAD | 7
+6 | Gray | CIN | 6
+6 | Robles | WSN | 6
+8 | Urias | LAD | 5
+8 | Lauer | SDP | 5
+8 | Cordell | CHW | 5
+8 | Musgrove | PIT | 5
+8 | DeShields | TEX | 5
+8 | Hudson | STL | 5
+
+
+Sacrifice Flies
+1 | Ahmed | ARI | 8
+2 | Reddick | HOU | 6
+2 | Gordon | KCR | 6
+2 | Mondesi | KCR | 6
+2 | McCann | ATL | 6
+2 | Bregman | HOU | 6
+2 | Laureano | OAK | 6
+2 | Escobar | ARI | 6
+2 | Verdugo | LAD | 6
+2 | Bell | PIT | 6
+2 | Pujols | LAA | 6
+
+
+Intentional Bases on Balls
+1 | Franco | PHI | 16
+2 | Yelich | MIL | 15
+3 | Bellinger | LAD | 12
+4 | Trout | LAA | 11
+5 | Bell | PIT | 7
+5 | Santana | CLE | 7
+5 | Arenado | COL | 7
+8 | Harper | PHI | 6
+8 | Lindor | CLE | 6
+10 | Betts | BOS | 5
+10 | Calhoun | LAA | 5
+10 | Freeman | ATL | 5
+10 | Kelly | ARI | 5
+10 | Martinez | BOS | 5
+10 | Rendon | WSN | 5
+
+
+Double Plays Grounded Into
+1 | Simmons | LAA | 15
+1 | Castro | MIA | 15
+1 | Lucroy | LAA | 15
+4 | Brantley | HOU | 14
+5 | Martinez | BOS | 13
+5 | Martinez | STL | 13
+7 | Cano | NYM | 12
+7 | Machado | SDP | 12
+7 | Ozuna | STL | 12
+7 | Guerrero | TOR | 12
+7 | Rizzo | CHC | 12
+7 | Pujols | LAA | 12
+7 | Pham | TBR | 12
+7 | Arcia | MIL | 12
+
+
+Caught Stealing
+1 | Merrifield | KCR | 7
+2 | Villar | BAL | 6
+2 | Robles | WSN | 6
+2 | Odor | TEX | 6
+2 | Moore | SEA | 6
+2 | Devers | BOS | 6
+7 | Gore | KCR | 5
+7 | McNeil | NYM | 5
+7 | Santana | TEX | 5
+7 | Bellinger | LAD | 5
+7 | Martin | CLE | 5
+7 | Hamilton | KCR | 5
+7 | Baez | CHC | 5
+7 | Cain | MIL | 5
+
+
+SB %
+1 | Margot | SDP | 100.00
+1 | Wong | STL | 100.00
+3 | Lindor | CLE | 92.86
+4 | Betts | BOS | 91.67
+5 | Yelich | MIL | 91.30
+6 | Dyson | ARI | 90.91
+7 | Gordon | SEA | 88.89
+8 | Mondesi | KCR | 87.88
+9 | Marte | PIT | 86.67
+10 | Ramirez | CLE | 86.36
+
+
+Power-Speed #
+1 | Yelich | MIL | 25.0
+2 | Acuna | ATL | 16.6
+3 | Puig | CIN | 16.1
+4 | Story | COL | 15.0
+5 | Tatis | SDP | 14.0
+6 | Marte | PIT | 13.9
+7 | Lindor | CLE | 13.5
+8 | Robles | WSN | 13.0
+9 | Bellinger | LAD | 12.7
+10 | Anderson | CHW | 12.7
+
+
+AB per SO
+1 | Fletcher | LAA | 11.4
+2 | La Stella | LAA | 10.5
+3 | Alberto | BAL | 9.8
+4 | Brantley | HOU | 9.3
+5 | Verdugo | LAD | 9.3
+6 | Gurriel | HOU | 9.2
+7 | Panik | SFG | 8.4
+8 | Reddick | HOU | 8.2
+9 | Segura | PHI | 7.9
+10 | Frazier | PIT | 7.9
+
+
+AB per HR
+1 | Renfroe | SDP | 10.1
+2 | Yelich | MIL | 10.1
+3 | Trout | LAA | 10.3
+4 | Bellinger | LAD | 10.5
+5 | Gallo | TEX | 10.5 **
+6 | Alonso | NYM | 11.1
+7 | Sanchez | NYY | 11.1
+8 | Reyes | SDP | 11.3
+9 | Bruce | 2TM | 11.4
+10 | Encarnacion | 2TM | 12.5
+
+
+Outs Made
+1 | Semien | OAK | 294
+2 | Castro | MIA | 291
+3 | Cain | MIL | 281
+3 | Merrifield | KCR | 281
+5 | Santana | SEA | 276
+6 | Baez | CHC | 274
+6 | Soler | KCR | 274
+8 | Villar | BAL | 273
+9 | Abreu | CHW | 272
+9 | Acuna | ATL | 272
+
+
+Base-Out Runs Added (RE24)
+1 | Trout | LAA | 53.88
+2 | Bellinger | LAD | 42.71
+3 | Yelich | MIL | 40.35
+4 | LeMahieu | NYY | 36.17
+5 | Arenado | COL | 32.38
+6 | Devers | BOS | 31.79
+7 | Freeman | ATL | 31.49
+8 | Blackmon | COL | 30.20
+9 | Bell | PIT | 28.74
+10 | Bogaerts | BOS | 28.29
+
+
+Win Probability Added (WPA)
+1 | Yelich | MIL | 4.3
+2 | Trout | LAA | 4.2
+3 | Bellinger | LAD | 4.1
+4 | Bogaerts | BOS | 3.1
+5 | Blackmon | COL | 2.8
+6 | Muncy | LAD | 2.7
+7 | LeMahieu | NYY | 2.7
+8 | Chapman | OAK | 2.7
+9 | Choo | TEX | 2.6
+10 | Freeman | ATL | 2.6
+
+
+Situ. Wins Added (WPA/LI)
+1 | Bellinger | LAD | 4.8
+2 | Trout | LAA | 4.6
+3 | Yelich | MIL | 4.1
+4 | Bell | PIT | 2.7
+5 | Alonso | NYM | 2.6
+6 | Bregman | HOU | 2.5
+7 | Bryant | CHC | 2.5
+8 | Chapman | OAK | 2.3
+9 | Freeman | ATL | 2.3
+10 | Santana | CLE | 2.3
+
+
+Base-Out Wins Added (REW)
+1 | Trout | LAA | 5.0
+2 | Bellinger | LAD | 4.0
+3 | Yelich | MIL | 3.7
+4 | LeMahieu | NYY | 3.3
+5 | Devers | BOS | 2.9
+6 | Freeman | ATL | 2.9
+7 | Arenado | COL | 2.8
+8 | Bell | PIT | 2.7
+9 | Bogaerts | BOS | 2.6
+10 | Blackmon | COL | 2.6
+
+
+Overall Statistical Standings
+1 | Bellinger  |  LAD | 2330 
+2 | Trout  |  LAA | 2200 
+3 | Yelich  |  MIL | 2090 
+4 | Bell  |  PIT | 1220 
+5 | Alonso  |  NYM | 930 
+6 | Freeman  |  ATL | 790 
+7 | Merrifield  |  KCR | 790 
+8 | Santana  |  CLE | 680 
+9 | Bregman  |  HOU | 630 
+10 | Devers  |  BOS | 530 
