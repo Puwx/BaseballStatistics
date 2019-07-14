@@ -21,6 +21,9 @@
 
 An example of the text file that is produced by this script can be found in this repository, and is called **DailyStats.txt**.
 
-**Requirments:**
+**Dependencies:**
+- Python 3.x
 - BeautifulSoup4
 - requests
+
+**Run "pip install -r requirement.txt" in Command Line to download the dependencies using pip
