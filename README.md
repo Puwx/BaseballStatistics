@@ -18,3 +18,5 @@
 |8th Place| 30 points|
 |9th Place| 20 points|
 |10th Place| 10 points|
+
+#### An example of the text file that is produced by this script can be found in this repository, and is called **DailyStats.txt**.
