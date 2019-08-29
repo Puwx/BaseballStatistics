@@ -20,6 +20,7 @@
 |10th Place| 10 points|
 
 An example of the text file that is produced by this script can be found in this repository -> [DailyStats.txt](https://github.com/Puwx/BaseballStatistics/blob/master/Daily_Stats.txt)
+
 **Dependencies:**
 - Python 3.x
 - BeautifulSoup4
